@@ -1,0 +1,30 @@
+.card{
+    width: 450px !important;
+}
+
+.bg{
+    background-image: url("CreditCardsCapture.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cardBG{
+    background-color: #3d4140;
+}
+
+.h4{
+    color: #e0c881;
+}
+
+.custom-control-label{
+    color: #e0c881;
+}
+
+.small{
+    color: #e0c881;
+}
+
+.btn{
+    background-color: #53859b;
+}
+
